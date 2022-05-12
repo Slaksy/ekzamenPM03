@@ -1,0 +1,9 @@
+StreamWriter c = new StreamWriter("DeviceShop.txt");
+            b = 0;
+            for (int i = 0; i < a; i++)
+            {
+                c.WriteLine("Марка: " + mas[n]); b++;
+                c.WriteLine("Модель: " + mas[n]); b++;
+                c.WriteLine("Цена: " + mas[n); b++;
+            }
+            c.Close();

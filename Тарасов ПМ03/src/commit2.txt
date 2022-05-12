@@ -1,0 +1,7 @@
+class DeviceShop
+    {
+        static void Main(string[] args)
+        {
+            Smartphone obj = new Smartphone();
+            
+            int a, b = 0;
